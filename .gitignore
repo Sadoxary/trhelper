@@ -1,0 +1,4 @@
+# Runtime data
+cache_*.txt
+tmp/
+debug.log
