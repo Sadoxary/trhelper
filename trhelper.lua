@@ -24,7 +24,7 @@ addon.name      = 'trhelper';
 addon.author    = 'Sadoxary';
 addon.version   = '1.3';
 addon.desc      = 'Translates NPC dialogue with Google Translate (Tataru Helper style).';
-addon.link      = '';
+addon.link      = 'https://github.com/Sadoxary/trhelper';
 
 require 'common';
 
